@@ -57,6 +57,7 @@ def main():
         )
 
         # Print response
+
         print("Response: " + response.choices[0].message.content + "\n")
 
         if (show_citations):
