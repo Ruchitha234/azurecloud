@@ -1,3 +1,5 @@
+Azure Cloud
+
 Microsoft Azure is a comprehensive cloud computing platform developed by Microsoft. It offers a wide range of services to help you build, deploy, and manage applications through Microsoft’s global network of data centers. Here are some key aspects:
 
 Services Offered:
